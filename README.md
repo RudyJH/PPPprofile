@@ -1,4 +1,4 @@
-# PPPprofile
+# PPPProfile
 Personality and Public Policy Profile tool
 
 This is the new home for the design and implementation of this idea. 
